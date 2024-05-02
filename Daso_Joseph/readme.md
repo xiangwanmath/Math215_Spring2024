@@ -1,2 +1,1 @@
-This is my own!
-Very spacious in here
+I have spent a lot of time in my life waiting in lines and cars with my family. Thus, due to our wordy–nerdy nature as a family, we would play a lot of parlor games. One of the games that stuck with me for a long time was a spelling game called “ghost”. My goal was to recreate a playable version of ghost implemented using python as well as a robot opponent that could play the game to varying degrees of success. Hope you enjoy!
